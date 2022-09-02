@@ -520,7 +520,7 @@ export default {
 }
 .tag-icon {
   padding: 2px 10px;
-  border-radius: 2px;
+  border-radius: 12px;
   transition: all 0.4s ease-in-out;
   font-size: 10px;
   text-transform: uppercase;
